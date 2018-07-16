@@ -1,10 +1,9 @@
-/**
- * @module Markdown
- */
-
 import math from 'mathjs';
 import {RpsContext,RpsModule,rpsAction} from 'rpscript-interface';
 
+/** MathJS Module
+ * @namespace MathJS
+*/
 @RpsModule("mathjs")
 export default class RPSMathJs {
 

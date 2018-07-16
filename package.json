@@ -1,5 +1,5 @@
 {
-  "name": "rpscript-api-mathjs",
+  "name": "@typecasting/rpscript-api-mathjs",
   "version": "0.1.0",
   "description": "RPScript API for mathjs",
   "keywords": [
@@ -25,7 +25,7 @@
   "dependencies": {
     "@types/mathjs": "^4.4.0",
     "mathjs": "^5.0.1",
-    "rpscript-interface": "^0.5.3"
+    "rpscript-interface": "^0.6.1"
   },
   "devDependencies": {
     "@types/chai": "^4.1.4",
